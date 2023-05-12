@@ -1,1 +1,58 @@
-# personal
+# about_me() -> () {
+- Life-long computer geek
+- CIS Student and mentor/tutor for UMA and the MIT Appinventor Program
+- I teach computer science and programming at MSP
+- I develop software/web apps for the education dept
+- I love terminals. i3 + tmux + neovim + alacritty
+- I use RUST + VIM + ARCH (the holy trinity of BTW)
+- Pursuing a career in DevOps/Backend engineering
+- POW: America's failed war on drugs
+- also Advocate for Maine's education based reform approach
+- I want to help bring technology and education to prisons across the country
+}
+
+
+
+
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=kVKd
+-----END PGP PUBLIC KEY BLOCK-----
