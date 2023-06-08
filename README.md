@@ -1,4 +1,4 @@
-# about_me() -> () {
+# fn about_me() {
 - Life-long computer geek
 - CIS Student and mentor/tutor for UMA and the MIT Appinventor Program
 - I teach computer science and programming at MSP
