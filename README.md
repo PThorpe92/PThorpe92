@@ -5,7 +5,7 @@
 - I develop software/web apps for the education dept
 - I love terminals. i3 + tmux + neovim + alacritty
 - I use RUST + VIM + ARCH (the holy trinity of BTW)
-- Pursuing a career in DevOps/Backend engineering
+- Pursuing a career in Backend engineering or DevOps
 - POW: America's failed war on drugs
 - also Advocate for Maine's education based reform approach
 - I want to help bring technology and education to prisons across the country
