@@ -1,11 +1,11 @@
 # fn about_me() {
 - Life-long computer geek
-- CIS Student and mentor/tutor for UMA and the MIT Appinventor Program
-- I teach computer science and programming at MSP
+- CIS Student and mentor/tutor for all things computer science
+- I teach computer science and programming at MDOC
 - I develop software/web apps for the education dept
-- I love terminals. i3 + tmux + neovim + alacritty
+- I love terminals. sway + tmux + neovim + kitty
 - I use RUST + VIM + ARCH (the holy trinity of BTW)
-- Pursuing a career in Backend engineering or DevOps
+- Pursuing a career in Backend 
 - POW: America's failed war on drugs
 - also Advocate for Maine's education based reform approach
 - I want to help bring technology and education to prisons across the country
