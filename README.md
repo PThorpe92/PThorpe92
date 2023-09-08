@@ -1,22 +1,22 @@
 ### fn about_me() {
-- Backend developer at [UnlockedLabs](https://www.unlockedlabs.org/)
+- Backend developer @ [UnlockedLabs](https://www.unlockedlabs.org/)
 >Where we are building an LMS(education platform) and a data acquisition/collection
  solution for incarcerated students, who currently have no way of tracking their progress
  and are missing out onsubstantial amounts of good-time credits, costing the U.S.
  Billions of dollars a year.
 
-- Core team contributor @ [Eza](https://github.com/eza-community/eza)
-- Life-long computer/Linux geek
-- Attending UMA as a CIS Student and mentor/tutor for all things computer science
+- ❤️ Open source
+- Core team @ [Eza](https://github.com/eza-community/eza)
+- 🐧 Linux Geek (I use arch btw)
 - I sometimes teach computer science and programming at MDOC
-- I develop software/web apps that benefit my fellow residents and help promote education.
 - I love terminals and all things CLI. DWM + Alacritty + Tmux + Neovim. 
 - 🦀 Devout Rustacean
-- Yes, in fact, I am currently incarcerated
+- Yes, in fact, I am currently incarcerated (All PR's submitted from my cell 🙃)
 - POW: America's failed war on drugs
-- also Advocate for Maine's education based reform approach
+- Advocate for Maine's education based reform approach
 - I want to help bring technology and education to prisons across the country
+- I am scheduled for release in May 2025
 }
 
 You can find me on [LinkedIn](https://linkedin.com/in/PThorpe92)
-or send me an email (listed)
+or send me an email preston@unlockedlabs.org
