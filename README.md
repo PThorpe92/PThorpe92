@@ -1,4 +1,4 @@
-### fn about_me() {
+### fn about_me(&self) {
 - Backend developer @ [UnlockedLabs](https://www.unlockedlabs.org/)
 >Where we are building an LMS(education platform) and a data acquisition/collection
  solution for incarcerated students, who currently have no way of tracking their progress
