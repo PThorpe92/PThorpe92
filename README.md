@@ -10,7 +10,7 @@
 - 🐧 Linux Geek (I use arch btw)
 - I sometimes teach computer science and programming at MDOC
 - I love terminals and all things CLI. DWM + Alacritty + Tmux + Neovim. 
-- Yes, in fact, I am currently incarcerated (POW: failed war on drugs, all PR's submitted from my cell 🙃)
+- Yes, in fact, I am currently incarcerated (POW: failed war on drugs, I have a [blog post](https://pthorpe92.github.io/intro/my-story) on my story.
 - Advocate for Maine's education based reform approach
 - I want to help bring technology and education to prisons across the country
 - I am scheduled for release in May 2025
