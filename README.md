@@ -15,6 +15,8 @@
 - I want to help bring technology and education to prisons across the country
 - I am scheduled for release in May 2025
 
-I love collaboration, and talking about things like functional programming, Rust (hehe), CLI apps and developer tooling, OCaml
+I love to collab on projects, I enjoy writing about various tech opinions or experiences, or sometimes I just try to be funny in a blog that can only be described as obligatory, and discussing things like functional programming, CLI apps and developer tooling, OCaml, Nvim or if you would like to schedule a consultation to discuss how we can rewrite your {$ITEM} in Rust:
+
 You can find me on [LinkedIn](https://linkedin.com/in/PThorpe92)
-or send me an email
+
+or send me an [email](P@eza.rocks)
