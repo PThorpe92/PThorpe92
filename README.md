@@ -9,7 +9,8 @@
 -  🦀 Oxidation enthusiast 🦀
 - 🐧 Linux Geek (I use arch btw)
 - I sometimes teach computer science and programming at MDOC
-- I love terminals and all things CLI. DWM + Alacritty + Tmux + Neovim. 
+- I love terminals and all things CLI. DWM + Alacritty + Tmux + Neovim.
+- My gpg key ID: 66DB3FBACBDD05CC
 - Yes, in fact, I am currently incarcerated (I have a [blog post](https://pthorpe92.github.io/intro/my-story) on my story.
 - Advocate for Maine's education based reform approach
 - I want to help bring technology and education to prisons across the country
