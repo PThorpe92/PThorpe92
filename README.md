@@ -4,10 +4,9 @@
  and are missing out onsubstantial amounts of good-time credits, costing the U.S. Billions of dollars a year.
 
 - ❤️ Open source
-- Core maintainer @ [Eza](https://github.com/eza-community/eza)
-- Author of [CuTE](https://github.com/PThorpe92/CuTE)
 -  🦀 Oxidation enthusiast 🦀
-- 🐧 Linux Geek 🐧 
+- 🐧 Linux Geek 🐧
+- 🐫 OCaml hobbyist
 - I sometimes teach computer science and programming
 - I love terminals and all things CLI. DWM + Wezterm + Tmux + Neovim.
 - My gpg key ID: 66DB3FBACBDD05CC
@@ -16,7 +15,7 @@
 - I want to help bring technology and education to prisons across the country
 - I am scheduled for release in ~May 2025
 
-I love to collab on projects, I enjoy writing about various tech opinions or experiences, or sometimes I just try to be funny in a blog that can only be described as obligatory, and discussing things like functional programming, CLI apps and developer tooling, OCaml, Rust, etc. 
+I love to collab on projects, working on [eza](https://github.com/eza-community/eza), writing about various tech opinions or experiences, or sometimes I just try to be funny in a blog that can only be described as obligatory, and discussing things like functional programming, CLI apps and developer tooling, OCaml, Rust, etc. 
 
 You can find me on [LinkedIn](https://linkedin.com/in/PThorpe92)
 
