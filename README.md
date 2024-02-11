@@ -1,3 +1,5 @@
+[![Preston's GitHub stats](https://github-readme-stats.vercel.app/api?username=pthorpe92)](https://github.com/anuraghazra/github-readme-stats)
+
 ### About me:
 - Back-end engineer @ [UnlockedLabs](https://www.unlockedlabs.org/)
 >Working on a data acquisition/collection solution for incarcerated students, who currently have no way of tracking their educational progress
