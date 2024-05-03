@@ -1,12 +1,13 @@
 [![Preston's GitHub stats](https://github-readme-stats.vercel.app/api?username=pthorpe92&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About me:
-- Back-end engineer @ [UnlockedLabs](https://www.unlockedlabs.org/)
+- Lead developer @ [UnlockedLabs](https://www.unlockedlabs.org/).
 >Working on a data acquisition/collection solution for incarcerated students, who currently have no way of tracking their educational progress
  and are missing out onsubstantial amounts of good-time credits, costing the U.S. Billions of dollars a year.
 
+- I work mostly on Backend + DevOps
 - ❤️ Open source
--  🦀 Oxidation enthusiast 🦀
+- Go developer + 🦀 Oxidation enthusiast
 - 🐧 Linux Geek 🐧
 - 🐫 OCaml hobbyist
 - I sometimes teach computer science and programming
