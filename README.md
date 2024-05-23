@@ -1,7 +1,7 @@
 [![Preston's GitHub stats](https://github-readme-stats.vercel.app/api?username=pthorpe92&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About me:
-- Lead developer @ [UnlockedLabs](https://www.unlockedlabs.org/).
+- Senior developer @ [UnlockedLabs](https://www.unlockedlabs.org/).
 >Working on a data acquisition/collection solution for incarcerated students, who currently have no way of tracking their educational progress
  and are missing out onsubstantial amounts of good-time credits, costing the U.S. Billions of dollars a year.
 
