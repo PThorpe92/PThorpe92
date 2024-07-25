@@ -22,4 +22,4 @@ I love to collab on projects, working on [eza](https://github.com/eza-community/
 
 You can find me on [LinkedIn](https://linkedin.com/in/PThorpe92)
 
-or send me an [email](preston@pthorpe92.dev)
+or send me an [email](mailto:preston@pthorpe92.dev)
