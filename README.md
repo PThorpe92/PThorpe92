@@ -2,11 +2,11 @@
 
 ### About me:
 - Principal Engineer @ [UnlockedLabs](https://www.unlockedlabs.org/).
->Working on an SIS for incarcerated students, who currently have no way of tracking their educational progress
+>Working on an SIS and network infrastructure for incarcerated students, who currently have no way of tracking their educational progress
  and are missing out onsubstantial amounts of good-time credits, costing the U.S. Billions of dollars a year.
 
 - I work mostly on Backend, cloud and infra/devops
-- Currently getting into databases
+- Currently getting into Databases, hacking on [limbo](https://github.com/tursodatabase/limbo)
 - ❤️ Open source
 - Go developer by trade + 🦀 Oxidation enthusiast by night
 - 🐧 Linux Geek 🐧
