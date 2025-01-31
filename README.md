@@ -6,9 +6,15 @@
  and are missing out onsubstantial amounts of good-time credits, costing the U.S. Billions of dollars a year.
 
 - I work mostly on Backend, cloud and infra/devops
-- Currently getting into Databases, hacking on [limbo](https://github.com/tursodatabase/limbo)
+- Interests:
+   - Systems programming
+   - Databases
+   - Distributed systems
+   - Containers
+   - Rust + Go
+- Currently hacking on [limbo](https://github.com/tursodatabase/limbo)
+- Maintainer/contributor @ [eza](https://github.com/eza-community/eza)
 - ❤️ Open source
-- Go developer by trade + 🦀 Oxidation enthusiast by night
 - 🐧 Linux Geek 🐧
 - 🐫 OCaml hobbyist
 - I sometimes teach computer science and programming
@@ -17,9 +23,7 @@
 - Yes, in fact, I am currently incarcerated (I have a [blog post](https://pthorpe92.dev/intro/my-story) on my story).
 - Advocate for Maine's education based reform approach
 - I want to help bring technology and education to prisons across the country
-- I am scheduled for release in ~May 2025
-
-I love to collab on projects, working on [eza](https://github.com/eza-community/eza), writing about various tech opinions or experiences or sometimes I just try to be funny in a blog that can only be described as obligatory, and discussing things like functional programming, CLI apps and developer tooling, OCaml, Rust, etc.
+- Hoping to be eligible for release mid 2025
 
 You can find me on [LinkedIn](https://linkedin.com/in/PThorpe92)
 
