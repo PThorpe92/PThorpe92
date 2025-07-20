@@ -12,7 +12,7 @@
    - Cloud/Devops
    - 🦀 Rust
 
-- Building the modern evolution of sqlite @ [limbo](https://github.com/tursodatabase/limbo)
+- Building the [modern evolution of sqlite](https://github.com/tursodatabase/turso)
 - Maintainer/contributor @ [eza](https://github.com/eza-community/eza)
 - ❤️ Open source
 - 🐧 Linux Geek 🐧
