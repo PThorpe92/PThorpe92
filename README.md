@@ -15,8 +15,7 @@
 - ❤️ Open source
 - 🐧 Linux Geek 🐧
 - I love terminals and all things CLI. DWM + Alacritty + Tmux + Neovim.
-- Yes, in fact, I am currently incarcerated (I have a [blog post](https://pthorpe92.dev/intro/my-story) on my story).
-- Coming home soon :)
+- I have a rather unique origin story and a [blog post](https://pthorpe92.dev/intro/my-story) about it.
 
 You can find me on [LinkedIn](https://linkedin.com/in/PThorpe92), read my [blog](https://pthorpe92.dev)
 
