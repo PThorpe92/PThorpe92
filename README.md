@@ -1,5 +1,6 @@
 ### About me:
-- DB hacking @ [Turso](https://turso.tech).
+- Postgres Core team @ [PlanetScale](https://planetscale.com)
+- previously DB hacking @ [Turso](https://turso.tech)
 - formerly principle @ [Unlocked Labs](https://unlockedlabs.org)
 
 ### Interests:
@@ -10,7 +11,7 @@
    - Cloud/Devops
    - 🦀 Rust
 
-- Building the [modern evolution of sqlite](https://github.com/tursodatabase/turso)
+- Maintainer/contributor to the [modern evolution of sqlite](https://github.com/tursodatabase/turso)
 - Maintainer/contributor @ [eza](https://github.com/eza-community/eza)
 - ❤️ Open source
 - 🐧 Linux Geek 🐧
