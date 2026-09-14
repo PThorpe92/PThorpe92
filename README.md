@@ -1,17 +1,19 @@
 ### About me:
-- Postgres Core team @ [PlanetScale](https://planetscale.com)
+The original [Databasemaxxer](https://pthorpe92.dev/databasemaxxing/)
+
+- Postgres Core @ [PlanetScale](https://planetscale.com)
 - previously DB hacking @ [Turso](https://turso.tech)
 - formerly principle @ [Unlocked Labs](https://unlockedlabs.org)
 
 ### Interests:
-   - Systems programming
    - Databases
+   - Systems programming
    - Distributed systems
    - Containers
    - Cloud/Devops
    - 🦀 Rust
 
-- Maintainer/contributor to the [modern evolution of sqlite](https://github.com/tursodatabase/turso)
+- Maintainer/contributor @ [TursoDB](https://github.com/tursodatabase/turso)
 - Maintainer/contributor @ [eza](https://github.com/eza-community/eza)
 - ❤️ Open source
 - 🐧 Linux Geek 🐧
