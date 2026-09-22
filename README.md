@@ -1,9 +1,11 @@
 ### About me:
 The original [Databasemaxxer](https://pthorpe92.dev/databasemaxxing/)
 
-- Postgres Core @ [PlanetScale](https://planetscale.com)
-- previously DB hacking @ [Turso](https://turso.tech)
-- formerly principle @ [Unlocked Labs](https://unlockedlabs.org)
+I work on the Postgres core team @ [PlanetScale](https://planetscale.com)
+
+Previously:
+- senior engineer @ [Turso](https://turso.tech)
+- lead @ [Unlocked Labs](https://unlockedlabs.org)
 
 ### Interests:
    - Databases
@@ -13,7 +15,7 @@ The original [Databasemaxxer](https://pthorpe92.dev/databasemaxxing/)
    - Cloud/Devops
    - 🦀 Rust
 
-- Maintainer/contributor @ [TursoDB](https://github.com/tursodatabase/turso)
+- core contributor @ [TursoDB](https://github.com/tursodatabase/turso)
 - Maintainer/contributor @ [eza](https://github.com/eza-community/eza)
 - ❤️ Open source
 - 🐧 Linux Geek 🐧
