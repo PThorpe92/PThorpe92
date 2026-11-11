@@ -1,7 +1,7 @@
 ### About me:
 The original [Databasemaxxer](https://pthorpe92.dev/databasemaxxing/)
 
-I work on the Postgres core team @ [PlanetScale](https://planetscale.com)
+I work on the Postgres Internals team @ [PlanetScale](https://planetscale.com)
 
 Previously:
 - senior engineer @ [Turso](https://turso.tech)
